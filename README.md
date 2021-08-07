@@ -3,5 +3,5 @@
   + for all Latin alphabet
   + for every character (we experiment in 5 alphabets A, B, C, D, E )
   + the combined data from 5 alphabets in dataset 2
-with 95% and 92% accuracy (best score in AlexNet, LeNet)
+  + with 95% and 92% accuracy (best score in AlexNet, LeNet)
 - Techstack: Scikit-learn, Tensorflow, OpenCV
